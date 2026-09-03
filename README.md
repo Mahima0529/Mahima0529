@@ -16,13 +16,13 @@
     <a href="mailto:mahimaptel@gmail.com">
       <img src="https://img.shields.io/badge/Email-mahimaptel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/Mahima-Patel" target="_blank">
+    <a href="https://www.linkedin.com/in/mahima-patel-07b797279/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Mahima%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/Mahima0529" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Mahima0529-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://leetcode.com/" target="_blank">
+    <a href="https://leetcode.com/u/mahima__patel/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
   </p>
