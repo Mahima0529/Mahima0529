@@ -2,13 +2,13 @@
 
   <!-- Typing SVG Header -->
   <a href="https://github.com/Mahima0529">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahima+Patel;Software+Engineer+%26+Backend+Enthusiast;Building+Scalable+Distributed+Systems;MERN+Stack+%7C+Kafka+%7C+Redis+%7C+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahima+Patel;Software+Engineer+%26+Backend+Enthusiast;Building+Scalable+Distributed+Systems;MERN+Stack+%7C+Kafka+%7C+Redis+%7C+Docker;Problem+Solver+%7C+250%2B+DSA+Solved" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <strong>B.Tech @ IIIT Bhagalpur ('27)</strong> • 
     <strong>GATE (CS) 2026 Qualified</strong> • 
-    <strong>Ex-Software Engineering Intern @ Itjobxs</strong>
+    <strong>Full-Stack & Backend Developer</strong>
   </p>
 
   <!-- Badges / Socials -->
@@ -38,13 +38,12 @@
 
 ### 💫 About Me
 
-I am a passionate **Software Engineer** and final-year undergraduate at the **Indian Institute of Information Technology (IIIT), Bhagalpur**, specializing in Mechatronics and Automation Engineering (CGPA: **8.68 / 10**). 
+I am a passionate **Software Engineer** and undergraduate at the **Indian Institute of Information Technology (IIIT), Bhagalpur**, specializing in Mechatronics and Automation Engineering (CGPA: **8.68 / 10**). 
 
 My primary interests lie in **Backend Engineering, Microservices, Distributed Systems, Event-Driven Architecture, and Cloud-Native Applications**. I love designing scalable APIs, optimizing system throughput, implementing high-efficiency caching, and solving complex algorithmic challenges.
 
 - 🎓 **Education**: B.Tech at **IIIT Bhagalpur** (2023 – 2027) with a CGPA of **8.68 / 10**
-- 💼 **Experience**: Former **Software Engineering Intern** at **Itjobxs**
-- 🎯 **Academics**: **Qualified GATE (CS) 2026**, validating strong fundamentals in Algorithms, OS, DBMS, and Computer Networks
+- 🎯 **Academics**: **Qualified GATE (CS) 2026**, validating strong fundamentals in Algorithms, Operating Systems, DBMS, and Networks
 - 📜 **Certifications**: **Certified System Administrator (CSA)** & **Certified Application Developer (CAD)** for ServiceNow
 - 🧠 **Problem Solving**: Solved **250+ Data Structures & Algorithms** problems across LeetCode and CodeChef
 - ⚡ **Current Focus**: Event streaming architectures with **Apache Kafka**, distributed caching with **Redis**, and container orchestration with **Docker**
@@ -76,11 +75,12 @@ My primary interests lie in **Backend Engineering, Microservices, Distributed Sy
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ API Abuse Detection Platform</h3>
+      <h3 align="center">🛡️ <a href="https://github.com/Mahima0529/API-Abuse-Detection-Platform">API Abuse Detection Platform</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=flat-square" alt="Microservices"/>
+        <a href="https://frontend-two-roan-71.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>
         <img src="https://img.shields.io/badge/Kafka-Streaming-red?style=flat-square" alt="Kafka"/>
-        <img src="https://img.shields.io/badge/Docker-Containerized-blue?style=flat-square" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Redis-Rate_Limit-DC382D?style=flat-square" alt="Redis"/>
+        <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square" alt="Docker"/>
       </p>
       <ul>
         <li>Engineered a high-throughput microservices system to monitor real-time API traffic and flag abnormal behaviors.</li>
@@ -90,30 +90,51 @@ My primary interests lie in **Backend Engineering, Microservices, Distributed Sy
       <p><strong>Tech:</strong> <code>Node.js</code>, <code>Express.js</code>, <code>React</code>, <code>Redis</code>, <code>Apache Kafka</code>, <code>Prisma</code>, <code>SQL</code>, <code>Docker</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔨 PrimeBid – Full-Stack Auction Platform</h3>
+      <h3 align="center">🔨 <a href="https://github.com/Mahima0529/MERN_AUCTION_PLATFORM_2.0">PrimeBid – Online Auction Engine</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/MERN-Full--Stack-green?style=flat-square" alt="MERN"/>
+        <a href="https://github.com/Mahima0529/mern_auction_backend" target="_blank"><img src="https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Backend Repo"/></a>
+        <img src="https://img.shields.io/badge/MERN-Full--Stack-47A248?style=flat-square" alt="MERN"/>
         <img src="https://img.shields.io/badge/Realtime-Bidding-orange?style=flat-square" alt="Bidding"/>
         <img src="https://img.shields.io/badge/Cron-Automated-purple?style=flat-square" alt="Cron"/>
       </p>
       <ul>
         <li>Created an automated auction engine featuring 5+ core modules: live bidding, leaderboards, commission management, and lifecycle handling.</li>
-        <li>Replaced unstructured peer-to-peer campus WhatsApp sales with a transparent, rule-enforced bidding portal.</li>
+        <li>Replaced unstructured peer-to-peer hostel deals with a transparent, rule-enforced bidding portal.</li>
         <li>Implemented secure server-side bid validation, JWT & Bcrypt authentication, and automated cron jobs for auction conclusion.</li>
       </ul>
       <p><strong>Tech:</strong> <code>React.js</code>, <code>Redux</code>, <code>Node.js</code>, <code>Express.js</code>, <code>MongoDB Atlas</code>, <code>JWT</code>, <code>Cron Jobs</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 <a href="https://github.com/Mahima0529/Next-Gen-Learning-Dasboard">Next-Gen Learning Dashboard</a></h3>
+      <p align="center">
+        <a href="https://next-gen-learning-dasboard.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <img src="https://img.shields.io/badge/Next.js-App_Router-black?style=flat-square" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square" alt="Supabase"/>
+      </p>
+      <ul>
+        <li>Engineered a sleek dark-mode, animated student learning analytics dashboard with responsive layouts and micro-interactions.</li>
+        <li>Integrated course progress tracking, interactive statistics, and modern Supabase-backed real-time data persistence.</li>
+      </ul>
+      <p><strong>Tech:</strong> <code>Next.js</code>, <code>TypeScript</code>, <code>Supabase</code>, <code>Tailwind CSS</code>, <code>Framer Motion</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 <a href="https://github.com/Mahima0529/CarrerLink">CareerLink – Job Portal with Automation</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN-Full--Stack-47A248?style=flat-square" alt="MERN"/>
+        <img src="https://img.shields.io/badge/Auth-JWT-black?style=flat-square" alt="JWT"/>
+        <img src="https://img.shields.io/badge/Workflows-Automated-blue?style=flat-square" alt="Automation"/>
+      </p>
+      <ul>
+        <li>Built a full-stack recruitment portal enabling seamless job discovery, role-based recruiter/candidate accounts, and application tracking.</li>
+        <li>Implemented dynamic filtering, resume management, automated candidate status updates, and secure RESTful endpoints.</li>
+      </ul>
+      <p><strong>Tech:</strong> <code>MongoDB</code>, <code>Express.js</code>, <code>React.js</code>, <code>Node.js</code>, <code>REST APIs</code>, <code>JWT</code></p>
+    </td>
+  </tr>
 </table>
-
----
-
-### 💼 Experience
-
-#### **Software Engineering Intern** — *Itjobxs* `[Jan 2026 – June 2026]`
-- **Responsive Architecture**: Built and optimized dedicated sections for `itjobxs.com`, delivering fluid responsive performance across mobile and desktop interfaces.
-- **Bot Mitigation & Security**: Tackled user verification challenges, implementing heuristics to detect and eliminate bot registrations and spam posts, reducing spam account sign-ups by **15%**.
-- **End-to-End MERN E-Commerce Application**: Architected a production-ready e-commerce solution for a client with robust RESTful APIs, JWT role-based access control, and high-performance order management (improving operational efficiency by **~20%**).
 
 ---
 
