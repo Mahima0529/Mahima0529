@@ -154,17 +154,17 @@ My primary interests lie in **Backend Engineering, Microservices, Distributed Sy
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mahima0529&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=94A3B8" alt="GitHub Stats" width="415" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Mahima0529&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B&text_color=94A3B8" alt="GitHub Stats" width="415" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima0529&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="365" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mahima0529&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="365" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahima0529&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" width="790" />
+  <img src="https://streak-stats.demolab.com/?user=Mahima0529&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" width="790" />
 </div>
 
 ---
